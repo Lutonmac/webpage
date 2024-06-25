@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "introduction": "Hello, I'm Gideon Owadara, a passionate front-end developer with over 8 years of experience crafting responsive and engaging user interfaces. I specialize in HTML5, CSS3, JavaScript, and modern frameworks like React and Vue.js. My goal is to bring designs to life with clean, efficient code, ensuring seamless user experiences across all devices. Let's connect to discuss how I can enhance your web projects with my front-end expertise.",
+      "name": "Gideon Owadara",
+      "age": 30,
+      "gender": "male",
+      "role": "Front-end Developer",
+      "education": [
+        "HND in Computer Science, Yaba College of Technology",
+        "Diploma in Web Development, Univelcity",
+        "Certification in JavaScript, Udemy"
+      ],
+      "experience": [
+        "Front-end Developer at Univelcity iTech Solutions - Developed and maintained the front-end functionality of websites, ensuring high performance and compatibility across all major browsers.",
+        "UI/UX Designer at ABC Creative Agency - Collaborated with designers to create intuitive user interfaces, resulting in a 15% increase in user retention.",
+        "Junior Web Developer at Web Innovations Ltd - Assisted in the development of client websites, providing technical support and troubleshooting issues."
+      ],
+      "skills": [
+        "HTML5, CSS3, JavaScript",
+        "Nextjs",
+        "Responsive Web Design",
+        "Cross-browser Compatibility",
+        "Version Control with Git",
+        "UI/UX Design Principles"
+      ],
+      "achievements": [
+        "Led the redesign of a major client's website, resulting in a 20% increase in traffic.",
+        "Implemented a new CSS framework that reduced page load times by 30%.",
+        "Awarded Employee of the Month for outstanding performance in April 2023."
+      ],
+      "contact": {
+        "email": "gideonowa@gmail.com",
+        "phone": "+2348069930587"
+      },
+      "linkedin": "https://www.linkedin.com/in/gideonowadara",
+      "portfolio": "https://www.gideonowadara.com"
+    }
+  ]
+  
